@@ -167,3 +167,5 @@ widgetsnbextension==4.0.16
 xxhash==4.1.0
 yarl==1.25.1
 zstandard==0.25.0
+langchain-community
+pypdf
